@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "b8dbb0697fc101d89df4e9a693518e8e"
+build_time: [1622574711, 789394000]
+inputs:
+  "/Users/Ronish/IdeaProjects/Trekr/Trekr/ContentView.swift": [1622574711, 616889892]
+  "/Users/Ronish/IdeaProjects/Trekr/Trekr/TrekrApp.swift": [1622574502, 608825237]
