@@ -17,7 +17,7 @@ struct WorldView: View {
         span: MKCoordinateSpan(latitudeDelta: 40, longitudeDelta: 40)
         )
     
-    var body: some View {
+    var body: some View { 
         Map(coordinateRegion: $region,
             annotationItems: locations.places) {
             location in
