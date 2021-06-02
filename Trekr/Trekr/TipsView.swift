@@ -13,18 +13,18 @@ struct TipsView: View {
     
     init(){
         let url = Bundle.main.url(forResource: "tips",
-            withExtension: "json")!
+                                  withExtension: "json")!
         let data = try! Data(contentsOf: url)
         tips = try!
             JSONDecoder().decode([Tip].self,
-            from: data)
+                                 from: data)
     }
     
     var body: some View {
         List(tips, id:\.text, children: \.children) { tip in
             if tip.children != nil {
-            Label(tip.text, systemImage: "quote.bubble")
-                .font(.headline)
+                Label(tip.text, systemImage: "quote.bubble")
+                    .font(.headline)
             }else{
                 Text(tip.text)
             }
