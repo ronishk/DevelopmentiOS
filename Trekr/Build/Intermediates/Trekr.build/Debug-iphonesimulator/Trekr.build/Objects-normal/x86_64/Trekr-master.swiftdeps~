@@ -1,11 +1,11 @@
 version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
 options: "92ea4a50901e31e7aba3521b15b897ed"
-build_time: [1622603868, 433475000]
+build_time: [1622610189, 2292000]
 inputs:
   "/Users/Ronish/IdeaProjects/Trekr/Trekr/Location.swift": [1622598807, 720591972]
   "/Users/Ronish/IdeaProjects/Trekr/Trekr/ContentView.swift": [1622589059, 873986002]
   "/Users/Ronish/IdeaProjects/Trekr/Trekr/WorldView.swift": [1622603509, 223092913]
   "/Users/Ronish/IdeaProjects/Trekr/Trekr/Tip.swift": [1622601062, 870920840]
-  "/Users/Ronish/IdeaProjects/Trekr/Trekr/TipsView.swift": [1622601533, 129213677]
+  "/Users/Ronish/IdeaProjects/Trekr/Trekr/TipsView.swift": [1622610126, 228706086]
   "/Users/Ronish/IdeaProjects/Trekr/Trekr/Locations.swift": [1622603501, 670731491]
   "/Users/Ronish/IdeaProjects/Trekr/Trekr/TrekrApp.swift": [1622603501, 637586533]

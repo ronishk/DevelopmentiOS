@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Trekr
 //
-//  Created by Ronish Khadgi on 5/31/21.
+//  
 //
 
 import SwiftUI
