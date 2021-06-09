@@ -32,7 +32,7 @@ extension ContentView {
             Text(location.description)
                 .padding(.horizontal)
             
-            Text(__designTimeString("#810.[1].[1].property.[0].[0].arg[0].value.[4].arg[0].value", fallback: "Did you know?"))
+            Text(__designTimeString("#7252.[1].[1].property.[0].[0].arg[0].value.[4].arg[0].value", fallback: "Did you know?"))
                 .font(.title3)
                 .bold()
                 .padding(.top)
@@ -42,7 +42,7 @@ extension ContentView {
             
         }
         
-        .navigationTitle(__designTimeString("#810.[1].[1].property.[0].[0].modifier[0].arg[0].value", fallback: "Discover")))
+        .navigationTitle(__designTimeString("#7252.[1].[1].property.[0].[0].modifier[0].arg[0].value", fallback: "Discover")))
     #sourceLocation()
     }
 }

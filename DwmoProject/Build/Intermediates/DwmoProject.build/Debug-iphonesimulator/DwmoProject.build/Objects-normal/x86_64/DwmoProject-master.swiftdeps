@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "2764f103dc375d8de6370bdf2fbabf15"
+build_time: [1622937766, 614401000]
+inputs:
+  "/Users/Ronish/IdeaProjects/DwmoProject/DwmoProject/ViewController.swift": !private [1622937766, 439371469]
+  "/Users/Ronish/IdeaProjects/DwmoProject/DwmoProject/AppDelegate.swift": [1622933205, 38259062]
+  "/Users/Ronish/IdeaProjects/DwmoProject/DwmoProject/SceneDelegate.swift": [1622933205, 45367288]

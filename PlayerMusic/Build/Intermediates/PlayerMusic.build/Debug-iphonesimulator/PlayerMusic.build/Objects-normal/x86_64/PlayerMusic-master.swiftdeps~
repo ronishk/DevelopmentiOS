@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "bb73fbb4c38bbf71d7d751c9b7f9a47a"
+build_time: [1623204058, 761734000]
+inputs:
+  "/Users/Ronish/IdeaProjects/PlayerMusic/PlayerMusic/AppDelegate.swift": [1623202838, 200541505]
+  "/Users/Ronish/IdeaProjects/PlayerMusic/PlayerMusic/SceneDelegate.swift": [1623202838, 207573554]
+  "/Users/Ronish/IdeaProjects/PlayerMusic/PlayerMusic/GenreButtonScreen.swift": [1623204058, 647543556]
